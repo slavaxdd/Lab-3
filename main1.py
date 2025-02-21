@@ -4,6 +4,13 @@ import pygame
 
 from keygen import rand_key
 
+
+
+'''!!!!!!!!!!!!!!ОСТОРОЖНО ГРОМКО!!!!!!!!!!!!!!!!!!!'''
+
+
+
+
 # button event function
 def clicked():
     res = rand_key()
